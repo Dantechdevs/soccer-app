@@ -124,4 +124,3 @@ If Git for Windows is already installed, make sure you can run git commands from
 
 This app uses API-FOOTBALL to fetch its data. <br/><br/>
 <a target="_blank" href="https://www.api-football.com/">API-FOOTBALL:</a> is a RESTFUL API for all sports data ( FOOTBALL | BASKETBALL | BASEBALL | FORMULA-1 | HOCKEY | RUGBY )
-blob:https://web.whatsapp.com/8575eed7-d349-4451-9f0f-a6d32eb0243c
